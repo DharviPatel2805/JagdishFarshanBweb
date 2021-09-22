@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JagdishFarshanBweb/static/css/main.8bd18792.chunk.css",
+    "main.js": "/JagdishFarshanBweb/static/js/main.8b6cc576.chunk.js",
+    "main.js.map": "/JagdishFarshanBweb/static/js/main.8b6cc576.chunk.js.map",
+    "runtime-main.js": "/JagdishFarshanBweb/static/js/runtime-main.3f12f6e2.js",
+    "runtime-main.js.map": "/JagdishFarshanBweb/static/js/runtime-main.3f12f6e2.js.map",
+    "static/js/2.aa3a0630.chunk.js": "/JagdishFarshanBweb/static/js/2.aa3a0630.chunk.js",
+    "static/js/2.aa3a0630.chunk.js.map": "/JagdishFarshanBweb/static/js/2.aa3a0630.chunk.js.map",
+    "index.html": "/JagdishFarshanBweb/index.html",
+    "static/css/main.8bd18792.chunk.css.map": "/JagdishFarshanBweb/static/css/main.8bd18792.chunk.css.map",
+    "static/js/2.aa3a0630.chunk.js.LICENSE.txt": "/JagdishFarshanBweb/static/js/2.aa3a0630.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f12f6e2.js",
+    "static/js/2.aa3a0630.chunk.js",
+    "static/css/main.8bd18792.chunk.css",
+    "static/js/main.8b6cc576.chunk.js"
+  ]
+}
