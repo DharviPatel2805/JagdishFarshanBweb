@@ -1,0 +1,26 @@
+.f2div{
+    padding: 4% 0 4% 0;
+    background: linear-gradient( to right, rgba(255,255,255, 0.5) 0 100% ), url("https://cdn.pixabay.com/photo/2021/04/06/11/22/hawa-mahal-6156123__340.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:450px;
+    
+}
+
+.copyright{
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    padding: 2%;
+}
+
+.footerIcon{
+    padding: 1%;
+}
+
+.flink{
+    padding: 1%;
+    color: black;
+
+}
+

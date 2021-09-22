@@ -1,0 +1,8 @@
+.footer{
+    margin: 0 25%;
+    color: #7F0405;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 2px dotted #7F0405;
+}

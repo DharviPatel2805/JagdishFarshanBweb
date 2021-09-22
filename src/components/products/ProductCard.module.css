@@ -1,0 +1,11 @@
+.icon{
+    color: #7f0405;
+    margin-left: 20%;
+    border-radius: 30%;
+    border-color: #7f0405;
+}
+
+.icon:hover {
+    background-color: #7f0405;
+    color: white;
+}

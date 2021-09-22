@@ -1,0 +1,23 @@
+.badgeDiv{
+    margin: 0 30%;
+    text-align: center;
+    z-index: -1;
+    position: absolute;
+    color: #7F0405;
+}
+
+.logoJ{
+    height: 190px;
+    width: 300px;
+}
+
+.description{
+    padding: 15px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.year{
+    font-size: 30px;
+    font-weight: 1000;
+}

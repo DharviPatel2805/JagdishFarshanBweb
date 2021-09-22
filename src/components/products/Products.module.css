@@ -1,0 +1,14 @@
+.mainDiv{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #d8d8d8;
+    width: 100%;
+    color: black;
+}
+
+.sDiv{
+    width: 70%;
+    background-color: #d8d8d8;
+    margin: auto;
+}
+

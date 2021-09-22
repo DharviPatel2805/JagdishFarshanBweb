@@ -1,0 +1,10 @@
+.fdiv{
+    padding: 4% 0 4% 0;
+    background: linear-gradient( to right, rgba(255,255,255, 0.5) 0 100% ), url("https://cdn.pixabay.com/photo/2021/04/06/11/22/hawa-mahal-6156123__340.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: absolute;
+    z-index: 1;
+    position: relative;
+    height:450px;
+}

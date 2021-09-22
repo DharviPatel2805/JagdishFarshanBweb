@@ -1,0 +1,20 @@
+.headerDiv{
+    font-size: 35px;
+    padding: 0 20px;
+}
+
+.secH{
+    padding: 0 25px 30px 25px;
+    color: #7f0405;
+    border-bottom: 2px dotted #7f0405;
+
+}
+
+.view{
+    background-color: #7f0405;
+    color: white;
+    width: 130px;
+    font-size: 20px;
+    box-shadow: inset;
+    
+}

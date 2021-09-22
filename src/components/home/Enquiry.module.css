@@ -1,0 +1,26 @@
+.enquiry{
+    color: black;
+    margin: 1% 12% 1% 12%;
+    font-size: 1rem;
+}
+
+.sdiv{
+    /* margin-left: 20px; */
+    text-align: right;
+}
+
+.login{
+    /* padding-right: 0px; */
+    /* padding-left: 350px; */
+    color: black;
+}
+
+.link{
+    color: black;
+    padding-left: 25px;
+
+}
+
+.contact{
+    margin-left: 50%;
+}
